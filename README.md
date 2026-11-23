@@ -1,8 +1,6 @@
-![luyunix — Agent systems, RAG, and backend engineering](assets/hero.svg)
+![Lucent — Agent systems, RAG, and backend engineering](assets/hero.svg)
 
-I build AI agent workbenches and retrieval services in Python, and write backend and developer tools in Python and Java. I contribute regression-tested fixes for agent runtimes, indexing, and session state.
-
-我主要做 Agent 应用、RAG 和后端工程，关注工具执行、会话恢复和检索链路的可靠性。
+Hi, I'm Lucent, a backend and platform engineer working with Java and Python. I've worked at small, mid-sized, and large tech companies. My projects have included developer platforms for search, ads, and recommendation, search index pipelines, multi-version deployments, and platform redesigns. My recent work brings coding agents into developer workflows, using CLI tools and RAG to help engineers deploy changes, verify the results, and troubleshoot failures.
 
 ## Selected projects
 
