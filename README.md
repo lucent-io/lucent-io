@@ -4,13 +4,13 @@ Hi, I'm Lucent, a backend and platform engineer working with Java and Python. I'
 
 ## Selected projects
 
-**[Faber](https://github.com/luyunix/faber)** · AI Agent workbench with streaming sessions, tool activity, and a browser sandbox. [API](https://github.com/luyunix/api) · [UI](https://github.com/luyunix/ui) · [Sandbox](https://github.com/luyunix/sandbox)
+**[Faber](https://github.com/lucent-io/faber)** · AI Agent workbench with streaming sessions, tool activity, and a browser sandbox. [API](https://github.com/lucent-io/api) · [UI](https://github.com/lucent-io/ui) · [Sandbox](https://github.com/lucent-io/sandbox)
 
-**[Faber RAG](https://github.com/luyunix/faber-rag)** · Retrieval service with dense search, BM25, and rank fusion. Exposes MCP and FastAPI endpoints for AI clients and a management console.
+**[Faber RAG](https://github.com/lucent-io/faber-rag)** · Retrieval service with dense search, BM25, and rank fusion. Exposes MCP and FastAPI endpoints for AI clients and a management console.
 
-**[PyFlightProfiler Helper](https://github.com/luyunix/PyFlightProfilerHelper)** · Java plugin for PyCharm that builds profiling commands from the Python code under the cursor.
+**[PyFlightProfiler Helper](https://github.com/lucent-io/PyFlightProfilerHelper)** · Java plugin for PyCharm that builds profiling commands from the Python code under the cursor.
 
-**[Core Study](https://github.com/luyunix/core_study)** · Backend engineering notes with runnable examples and a searchable [reading site](https://luyunix.github.io/core_study/).
+**[Core Study](https://github.com/lucent-io/core_study)** · Backend engineering notes with runnable examples and a searchable [reading site](https://lucent-io.github.io/core_study/).
 
 ## Open-source work
 
